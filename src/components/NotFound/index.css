@@ -1,0 +1,13 @@
+.not-found {
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+.notFound {
+  background-color: peachpuff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

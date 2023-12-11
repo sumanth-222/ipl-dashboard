@@ -1,0 +1,23 @@
+.matchCard-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  padding: 7px;
+  margin: 15px;
+}
+.team-logo {
+  height: 100px;
+  width: 100px;
+}
+.text {
+  color: white;
+}
+.team2 {
+  color: white;
+}
+.team3 {
+  color: white;
+}

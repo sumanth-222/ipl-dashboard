@@ -1,0 +1,47 @@
+.latest-match-container {
+  display: flex;
+  background-color: black;
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 1100px;
+  justify-content: space-between;
+}
+.first-row {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding-right: 40px;
+  padding-left: 20px;
+}
+.two {
+  padding-left: 40px;
+  padding-right: 20px;
+}
+.venue {
+  color: white;
+  font-size: 20px;
+  list-style: none;
+}
+.competing-team {
+  color: white;
+  font-size: 28px;
+}
+.datee {
+  color: white;
+  font-size: 28px;
+}
+.first-innings {
+  color: white;
+  font-size: 28px;
+}
+.image {
+  height: 250px;
+  width: 200px;
+  align-self: center;
+}
+.third-row {
+  padding-left: 40px;
+  flex-shrink: 0;
+}
